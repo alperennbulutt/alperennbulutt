@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Alperen Bulut</h1>
 <h3 align="center">A passionate frontend developer from Turkey</h3>
 
-- 🔭 I’m currently working on [Quiddy](https://play.google.com/store/apps/details?id=nl.trimbos.quiddy)
+- 🔭 I’m currently working on [Quiddy](https://play.google.com/store/apps/details?id=nl.trimbos.quiddy) and [Maxx](https://play.google.com/store/apps/details?id=nl.trimbos.maxx)
 
 - 🌱 I’m currently learning **SwiftUI and Nodejs Express**
 
